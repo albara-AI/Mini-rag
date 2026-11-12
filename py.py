@@ -1,0 +1,1 @@
+print ("hallo in the first mini rag system")
